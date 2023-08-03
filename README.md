@@ -1,0 +1,14 @@
+# missi_phoneext4_global-user 13 TP1A.220624.014 V14.0.5.0.TKWMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: agate
+- flavor: missi_phoneext4_global-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.5.0.TKWMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/vnd_agate/agate:12/SP1A.210812.016/V14.0.5.0.TKWMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.5.0.TKWMIXM-release-keys
+- repo: xiaomi_agate_dump
