@@ -1,0 +1,34 @@
+[
+	{
+		"packageName":"cn.wps.xiaomi.abroad.lite",
+		"versionCode":264
+	},
+	{
+		"packageName":"com.duokan.phone.remotecontroller",
+		"versionCode":6339
+	},
+	{
+		"packageName":"com.miui.calculator",
+		"versionCode":201203677
+	},
+	{
+		"packageName":"com.miui.compass",
+		"versionCode":1302040
+	},
+	{
+		"packageName":"com.miui.mediaeditor",
+		"versionCode":4327553
+	},
+	{
+		"packageName":"com.miui.notes",
+		"versionCode":525
+	},
+	{
+		"packageName":"com.opera.browser.afin",
+		"versionCode":1907320304
+	},
+	{
+		"packageName":"com.xiaomi.midrop",
+		"versionCode":33600
+	}
+]
